@@ -1,5 +1,5 @@
-Crypto-Based Warranty & Product Lifecycle Tracker
-📝 Project Description
+#Crypto-Based Warranty & Product Lifecycle Tracker
+##📝 Project Description
 A decentralized blockchain platform that manages product warranties and tracks product lifecycle events. It replaces paper-based warranty cards with NFTs that hold expiry data, product serial numbers, and ownership history, making warranty claims and resales more transparent and secure.
 
 🎯 Project Vision

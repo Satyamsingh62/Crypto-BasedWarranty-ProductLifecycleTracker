@@ -28,6 +28,6 @@ The vision is to establish a tamper-proof, transparent system for product warran
 
 > (Fill in manually after deployment)
 
-- Contract Name: WarrantyNFT Deployed Address: 0xe904370437d54c9ca38683916dc75e534710c6cf Deployed Network: Core Blockchain (Testnet) Compiler Version: 0.8.17 Dependencies: @openzeppelin/contracts @nomiclabs/hardhat-ethers dotenv
+ Deployed Address: 0xe904370437d54c9ca38683916dc75e534710c6cf 
 ![image](https://github.com/user-attachments/assets/43faa57d-e526-46c7-a494-0db50bf4fd6a)
 
